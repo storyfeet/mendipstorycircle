@@ -1,0 +1,23 @@
+---
+layout: default
+---
+<div id="main-area" class="main-wide">
+
+  <div class="sidebar">
+    <img src="{{site.baseurl}}/assets/pics/banner.png" class="banner" />
+    <nav>
+      {% for page in site.pages %}
+        <a href={{page.url | relative_url}}>{{page.title}}</a>
+      {% endfor %}
+    </nav>
+  </div>
+  <div id="contents">
+          <div id="ancient">THE ANCIENT ART <span>of </span>STORYTELLING IN SOMERSET'S MENDIP HILLS</div>
+          {{content}}
+  <title>Story Feet</title>
+  <meta name="description" content="Storytelling, Magic, Illustration. All parts of what we offer. Come and see." >
+  </div><!-- contents -->
+  <div id="contact">Email us at <a href="mailto:mendipstorycircle@gmail.com">mendipstorycircle@gmail.com</a></div>
+  </div><!-- s -->
+<!--img class="banner" src="/s/pics/bottom.svg" style="vertical-align:bottom;"-->
+</div><!-- main-area -->

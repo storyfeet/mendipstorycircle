@@ -1,0 +1,147 @@
+$backgroundColor: #38632e;
+$bodyColor: #000000;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+
+
+@font-face{
+    font-family:Pinyon;
+    src:url("/s/pics/font/PinyonScript-Regular.ttf")
+}
+
+
+body {
+    background:#38632e;
+    background:linear-gradient(to bottom,#38632e,#cfd0b1);
+    background:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #38632e), color-stop(100%, #cfd0b1));
+    background: $backgroundColor;
+    color: $bodyColor;
+    font-family: $bodyFont;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center center;
+    background-attachment:fixed;
+    font-family:verdana, arial;
+}
+
+#main-area {
+    background:none;
+}
+
+
+#ribbon_loc {
+    background:rgba(0,0,0,0.1);
+    text-align:center;
+}
+
+.main-wide #ribbon_loc{
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:25vw;
+    height:100vh;
+}
+
+#contents{
+    background:rgba(255,255,255,0.7);
+}
+
+.main-wide #contents{
+    margin: 5px 5px 5px 25vw;
+    padding: 20px;
+}
+
+.main-tall #contents{
+    padding:10px;
+}
+
+.main-wide #ribbon_loc img{
+    display:block;
+    margin: 20px auto;
+    width:90%;
+    max-height:50vh;
+}
+
+
+.main-wide #contact{
+    text-align:center;
+    width:25vw;
+    position:fixed;
+    bottom:5px;
+    left:5px;
+    z-index:1;
+}
+
+.main-tall #contact{
+    padding:20px;
+    background:rgba(0,0,0,0.1)
+}
+
+
+
+#ribbon_loc button{
+    margin:3px 3px;
+    cursor:pointer;
+    background:rgba(225,255,255,0.3);
+    font-size:20px;
+
+}
+#ribbon_loc button:hover{
+    background:rgba(255,255,255,0.7);
+}
+
+.main-tall #ribbon_loc img{
+    max-width:50vw;
+    max-height:50vw;
+    display:block;
+    margin:auto;
+}
+
+
+
+
+#ancient {
+    max-width:220px;
+    margin-left:10px;
+    margin-bottom:10px;
+    font-size:25px;
+    font-weight:bold;
+    float:right;
+    //background:rgba(0,0,0,0.5);
+    //text-align:right;
+}
+
+#ancient span{
+    font-family:Pinyon;
+
+}
+
+.notice{
+    position:relative;
+    background:rgba(255,255,255,0.5);
+    border:1px solid black;
+    padding:20px;
+    max-width:50%;
+}
+
+.mem-profile{
+    position:relative;
+    border:1px solid black;
+    padding:20px;
+}
+
+.mem-profile img {
+    float:left;
+    left:10px;
+    top:10px;
+    max-width:150px;
+    max-height:150px;
+    background:rgba(0,0,0,0.1);
+    margin:5px;
+
+}
+
+.mem-profile .mem-blurb {
+    max-height:150px;
+    overflow-y:scroll;
+}
