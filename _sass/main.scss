@@ -1,12 +1,18 @@
-$backgroundColor: #38632e;
-$bodyColor: #000000;
+$col_off : #8B635C;
+$col_dark:#210124;
+$col_main:#5B7553;
+$col_light:#D5FFD9;
+$col_in : #547AA5;
+$col_lighter:#ffffffaa;
+
 $bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
 
 
 
 @font-face{
     font-family:Pinyon;
-    src:url("/s/pics/font/PinyonScript-Regular.ttf")
+    src:url($baseurl +"/assets/font/PinyonScript-Regular.ttf");
 }
 
 
@@ -14,8 +20,8 @@ body {
     background:#38632e;
     background:linear-gradient(to bottom,#38632e,#cfd0b1);
     background:-webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #38632e), color-stop(100%, #cfd0b1));
-    background: $backgroundColor;
-    color: $bodyColor;
+    background: $col_main;
+    color: black;
     font-family: $bodyFont;
     background-repeat:no-repeat;
     background-size:cover;
@@ -24,11 +30,64 @@ body {
     font-family:verdana, arial;
 }
 
-#main-area {
-    background:none;
+.sidebar {
+  position:fixed;
+  background-color:$col_in;
+  top:0px;
+  bottom:0px;
+  left:0px;
+  width:20vw;
+  min-width:300px;
+}
+
+.sidebar img{
+  margin-top:30px;
+  width:20vw;
+  min-width:300px;
+
+}
+
+.contents{
+  margin-left:calc(max(20vw, 300px));
+  background-color:$col_light;
+  padding:5px;
 }
 
 
+
+.ancient {
+    max-width:220px;
+    margin-left:10px;
+    margin-bottom:10px;
+    font-size:25px;
+    font-weight:bold;
+    float:right;
+    //background:rgba(0,0,0,0.5);
+    //text-align:right;
+}
+
+.ancient span{
+    font-family:Pinyon;
+
+}
+
+.notice {
+  background-color:$col_lighter;
+  border:1px solid black;
+  padding:4px;
+  margin:10px;
+  width:fit-content;
+}
+
+
+
+/*side-bar nav{
+  position:relative;
+  top:50%;
+  transform:translateY(-50%);
+}*/
+
+/*
 #ribbon_loc {
     background:rgba(0,0,0,0.1);
     text-align:center;
@@ -145,3 +204,4 @@ body {
     max-height:150px;
     overflow-y:scroll;
 }
+*/

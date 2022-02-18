@@ -14,5 +14,3 @@ And Many more. More info soon.
 And **YOU**
 
 *Everyone is welcome to tell. come let us hear your story.*
-
-

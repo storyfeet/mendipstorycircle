@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Mendip Story Circle - </title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-    <div class="sidebar">
-  <nav>
-    <img src="/assets/pics/banner.png" class="banner" />
-    
-      <a href=/contact.html>Get In Touch</a>
-    
-      <a href=/events.html>Events</a>
-    
-      <a href=/>Mendip Story Circle</a>
-    
-      <a href=/assets/css/main.css></a>
-    
-      <a href=/past.html>Events</a>
-    
-      <a href=/storytelling.html>Storytelling.</a>
-    
-      <a href=/tellers.html>Meet the Tellers</a>
-    
-  </nav>
-</div>
-<div class="contents">
-        <div class="ancient">THE ANCIENT ART <span>of </span>STORYTELLING IN SOMERSET'S MENDIP HILLS</div>
-
-        <h1>Mendip Story Circle</h1>
-        
-        <p>Mendip Storytelling Circle is an open club run by four people: Colin, Martin, Janet and Terence (hereafter referred to as the Quartet). We have been holding monthly meetings September to June on Thursday evenings since 2013.</p>
+I"V<p>Mendip Storytelling Circle is an open club run by four people: Colin, Martin, Janet and Terence (hereafter referred to as the Quartet). We have been holding monthly meetings September to June on Thursday evenings since 2013.</p>
 
 <p>Our aim is to share the joy of orally telling stories from memory in the form of narratives, poems and ballads. Although we would also welcome other forms of communication such as Mime, Puppetry and Sign language.</p>
 
@@ -49,9 +15,4 @@
 <p>Before stories begin at 8.00 pm and during the intermission tea and coffee and biscuits are made available by our “catering gang” of Carol and another Janet.</p>
 
 <p>We don’t charge for admission to our evening Circle, nor for the refreshments. However we do invite anyone who attends and enjoys the evening to drop a contribution “in the hat” to help with the cost of hall hire, heating and advertising.</p>
-
-</div><!-- contents -->
-<div id="contact">Email us at <a href="mailto:mendipstorycircle@gmail.com">mendipstorycircle@gmail.com</a></div>
-
-  </body>
-</html>
+:ET
