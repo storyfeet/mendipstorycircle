@@ -12,11 +12,11 @@ Our regular meetups are on the first Thursday of the month. Chewton Mendip Villa
 
 
 {% assign now_seconds = "now" | date: "%s" | plus: 0 %}
-{% for post in site.posts %}
+{% for post in site.posts %}{%if post.categories contains "event"%}
     <h3>{{post.title}} - TEST</h3>
   {% assign post_seconds = post.date | date: "%s" | plus: 0 %}
   {% if post_seconds > now_seconds %}
     <h3>{{ post.title }} - {{post.date | date:"%y/%m/%d"}}</h3>
     {{post.content}}
   {% endif %}
-{% endfor %}
+  {%endif%}{% endfor %}
