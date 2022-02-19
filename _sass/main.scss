@@ -38,19 +38,39 @@ body {
   left:0px;
   width:20vw;
   min-width:300px;
+  @include media-query($on-palm) {
+    position:static;
+    top:auto;
+    bottom:auto;
+    left:auto;
+    width:100%;
+    min-height:120px;
+  }
 }
 
 .sidebar img{
   margin-top:30px;
   width:20vw;
   min-width:300px;
+  @include media-query($on-palm){
+    margin-top:0px;
+    position:static;
+    float:left;
+    width:120px;
+    min-width:120px;
+  }
 
 }
 
 .contents{
   margin-left:calc(max(20vw, 300px));
   background-color:$col_light;
-  padding:5px;
+  padding:15px;
+  min-height:50vw;
+  @include media-query($on-palm){
+    margin-left:10px;
+    margin:10px;
+  }
 }
 
 
