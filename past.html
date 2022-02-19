@@ -8,9 +8,10 @@ A list of events that have happened recently enough
 
 {% assign now_seconds = "now" | date: "%s" | plus: 0 %}
 {% for post in site.posts -%}
-  {% assign post_seconds = post.date | date: "%s" | plus: 0 %}
-  {% if now_seconds > post_in_seconds %}
+    {% assign post_seconds = post.date | date: "%s" | plus: 0 %}
+    <h3>{{post.title}}-{{post_seconds}}-{{now_seconds}}</h3>
+    {% if now_seconds >= post_seconds %}
       <h3>{{ post.title }} - {{post.date | date:"%y/%m/%d"}}</h3>
       {{post.content}}
-  {% endif %}
+    {% endif %}
 {%- endfor %}
