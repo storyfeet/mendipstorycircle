@@ -8,6 +8,6 @@ future: true
 defaults:
   -
     scope:
-      path: "_posts/events/"
+      path: "_posts/events"
     values:
       categories: "event"
