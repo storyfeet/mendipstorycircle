@@ -1,0 +1,10 @@
+---
+title: National Storytelling Week
+---
+item 1 :  Begins Sunday 29th January with the phenomenal Debs Newbold performing her one woman retelling of Shakespeare's MACBETH, at Victoria Hall, Radstock at 7.30 pm. Debs has received rave reviews and plaudits for her work in Theatre, Theatre Education and workshops across the nation including from the Hay-on-Wye Festival, The Globe Theatre and Towersey Festival. This is the third in her cycle of Shakespearian stories. Last years King Lear was "sold out", people had to be turned away from the door, and the performance received a standing ovation. Don't delay, buy your tickets now. Box Office: vhradstock.co.uk or telephone: 01761 438885.
+
+Item 2 : On Thursday 2nd February, there is a normal if paired-back Story Circle evening at Chewton Mendip Village Hall as usual. Hoping to see regular friends and new visitors....these evenings are free. Although some of you may well choose to opt out if your coming to Fridays BIG EVENT, see item 2 below. If there are fewer numbers then it will be all the more intimate, friendly and a great opportunity to try out telling a story if you haven't done so before.
+
+item 3:    On Friday 3rd February, Mendip Storytelling Circle is holding it's first STORY SUPPER. 8.00 pm at Farrington Gurney Memorial Hall, BS39 6TY. Entry by ticket, purchased in advance only. Price £12.50. Tickets are going fast ... indeed like hot cakes! Only a few left.
+
+Stories told by The Quartet the four local organisers of the Circle. Live, traditional music and a three course supper, the main course being hot. Cash bar on site, plenty of free off road parking. Avoid disappointment. Get your tickets now from Colin Emmett 07510 699 046.

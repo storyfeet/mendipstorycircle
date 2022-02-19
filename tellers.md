@@ -14,3 +14,10 @@ And Many more. More info soon.
 And **YOU**
 
 *Everyone is welcome to tell. come let us hear your story.*
+
+
+<h2>The Quartet</h2>
+{% include members.html category="quartet"%}
+
+<h2>Members</h2>
+{% include members.html category="member"%}

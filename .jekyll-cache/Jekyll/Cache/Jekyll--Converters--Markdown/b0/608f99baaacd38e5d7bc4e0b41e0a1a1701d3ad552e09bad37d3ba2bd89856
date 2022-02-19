@@ -1,40 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Meet the Tellers - </title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-    <div class="sidebar">
-  <nav>
-    <img src="/assets/pics/banner.png" class="banner" />
-    
-      <a href=/contact.html>Get In Touch</a>
-    
-      <a href=/events.html>Upcoming Events</a>
-    
-      <a href=/>Mendip Story Circle</a>
-    
-      <a href=/assets/css/main.css></a>
-    
-      <a href=/past.html>Past Events</a>
-    
-      <a href=/storytelling.html>Storytelling.</a>
-    
-      <a href=/tellers.html>Meet the Tellers</a>
-    
-      <a href=/assets/css/main.css.map></a>
-    
-  </nav>
-</div>
-<div class="contents">
-        <div class="ancient">THE ANCIENT ART <span>of </span>STORYTELLING IN SOMERSET'S MENDIP HILLS</div>
-
-        <h1>Meet the Tellers</h1>
-        
-        <p>First off the Quartet: Terence, Colin, Martin and Janet.</p>
+I"²<p>First off the Quartet: Terence, Colin, Martin and Janet.</p>
 
 <p>The Poets: David, and George.</p>
 
@@ -162,9 +126,4 @@
     <div style="clear:both"></div>
   </div>
 
-
-</div><!-- contents -->
-<div id="contact">Email us at <a href="mailto:mendipstorycircle@gmail.com">mendipstorycircle@gmail.com</a></div>
-
-  </body>
-</html>
+:ET

@@ -1,0 +1,14 @@
+
+<div markdown="0">
+{% for member in site.members -%}
+  {%if member.categories contains include.category %}
+    <div class="member">
+      <h3>{{member.title}}</h3>
+      {% if member.photo %} <img src="{{site.baseurl}}/assets/pics/members/{{member.photo}}">
+      {% endif %}
+      {{member.content}}
+    </div>
+    <div style="clear:both"></div>
+  {%endif%}
+{%- endfor -%}
+</div>

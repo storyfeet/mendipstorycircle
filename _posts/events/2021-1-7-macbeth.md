@@ -1,0 +1,7 @@
+---
+title: Macbeth - one woman show
+---
+
+Debs Newbold is returning to the Victoria Hall Radstock on Sunday 29th January 7,30pm in her new one-woman version of Shakespeare's "MACBETH". This is a must-see show for all lovers of theatre and story.
+
+Those of you who have seen her two previous shows in Radstock: Romeo & Juliet, and King Lear will know what a brilliant, dynamic performer Debs is and how she can make those familiar stories of Shakespeare breath with fresh life. For anyone who doubts that Shakespeare can be either entertaining or even understandable, come and see Debs and prepare to be astonished.

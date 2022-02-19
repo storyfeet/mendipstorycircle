@@ -1,3 +1,13 @@
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "/mendipstorycircle" # the subpath of your site, e.g. /blog
 title: "" # the name of your site, e.g. ACME Corp.
+collections:
+  - members
+future: true
+
+defaults:
+  -
+    scope:
+      path: "_posts/events/"
+    values:
+      categories: "event"
