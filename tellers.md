@@ -1,6 +1,7 @@
 ---
 title: Meet the Tellers
 layout: page
+order: 5
 ---
 
 First off the Quartet: Terence, Colin, Martin and Janet.

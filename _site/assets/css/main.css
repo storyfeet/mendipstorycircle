@@ -22,6 +22,10 @@ body { background: #38632e; background: linear-gradient(to bottom, #38632e, #cfd
 
 .member img { width: 120px; float: left; margin: 10px; }
 
+@media screen and (max-width: 600px) { nav { margin-left: 120px; } }
+
 nav a:link, nav a:hover, nav a:visited, nav a:active { white-space: nowrap; margin: 10px; padding: 20px; line-height: 50px; color: black; font-size: 160%; }
+
+@media screen and (max-width: 600px) { nav a:link, nav a:hover, nav a:visited, nav a:active { font-size: 120%; } }
 
 /*# sourceMappingURL=main.css.map */

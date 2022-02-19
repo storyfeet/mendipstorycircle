@@ -6,9 +6,10 @@ layout: default
   <a href="{{baseurl}}/"><img src="{{site.baseurl}}/assets/pics/banner.png" class="banner" /></a>
 
   <nav>
-    {% for page in site.pages %}
+    {% assign ordered = site.pages | sort: "order"%}
+    {% for page in ordered %}{%if page.title %}
       <a href={{page.url | relative_url}}>{{page.title}}</a>
-    {% endfor %}
+    {%endif%}{% endfor %}
   </nav>
 </div>
 <div class="contents">

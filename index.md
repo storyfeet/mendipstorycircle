@@ -1,6 +1,7 @@
 ---
 title: Mendip Story Circle
 layout: page
+order: 0
 #notice: Mendip Storytelling Circle  meeting Thursday 2nd April at Chewton Mendip Village Hall
 ---
 
