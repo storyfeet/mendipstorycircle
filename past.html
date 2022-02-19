@@ -7,10 +7,12 @@ order: 3
 A list of events that have happened recently enough
 
 {% assign now_seconds = "now" | date: "%s" | plus: 0 %}
-{% for post in site.categories.event %}
-  {% assign post_in_seconds = post.date | date: "%s" | plus: 0 %}
+{% for post in site.posts -%}
+  {%- if post.categories contains "event" -%}
+    {% assign post_seconds = post.date | date: "%s" | plus: 0 %}
   {% if now_seconds > post_in_seconds %}
-    <h3>{{ post.title }} - {{post.date | date:"%y/%m/%d"}}</h3>
-    {{post.content}}
-  {% endif %}
-{% endfor %}
+      <h3>{{ post.title }} - {{post.date | date:"%y/%m/%d"}}</h3>
+      {{post.content}}
+    {% endif %}
+  {%- endif- %}
+{%- endfor %}
