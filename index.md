@@ -11,9 +11,9 @@ Our aim is to share the joy of orally telling stories from memory in the form of
 
 We normally meet on the 2nd Wednesday of the month
 
-Our meetings take place from 19:30 hours to 22:00 hours, stories start at 20:00 hours.
+Doors open 7:30pm, start time 7.45pm, finish 9.30pm.
 
-Currently we meet at Ston Easton Village Hall
+Currently we meet at Ston Easton Village Hall, Green Street, Ston Easton, BA3 4DA
 
 One of our Quartet always plays "host" or "master of ceremony's" and another tells the first story, but after that stories can come from anyone.  
 
