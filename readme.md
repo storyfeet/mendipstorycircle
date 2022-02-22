@@ -19,9 +19,9 @@ Mendip Story Circle
 
 Adding a Member:
 
-1. _navigate to "assets/pics/members" upload an image file for that member.
+1. navigate to "assets/pics/members" upload an image file for that member.
 2. commit the cha commit the change
-3. In your fork, navigate to "_members", and create a file called "&lt;member_name&gt;.md"
+3. In your fork, navigate to "\_members", and create a file called "&lt;member\_name&gt;.md"
 4. add the that file the following contents:
 
 ```
@@ -30,9 +30,30 @@ title: <member_name>
 photo: <photo_file_name.jpg>
 categories: <either member or quartet>
 ---
-Any information you wish to say about the member
+
+Any information you wish to say about the member. (Remember the ':'s should have a space after them). 
+
+If you don't have a photo, just don't include that line in the header.
 ```
 
+5. Commit the change.
+6. Create a pull request and if you can, merge it.
 
+
+Adding an Event
+------------
+
+1. navigate to "\_posts/events"
+2. Create a new file with the name "YYYY-MM-DD-event-name.md"
+3. Inside that file all the folling contents
+
+```
+---
+title: <event name>
+---
+Any info you wish to add about the event.
+```
+4. Commit the changes
+5. Make and marge the pull request.
 
 
