@@ -34,10 +34,14 @@ categories: <either member or quartet>
 Any information you wish to say about the member. (Remember the ':'s should have a space after them). 
 
 If you don't have a photo, just don't include that line in the header.
+
 ```
+
+The information text will be formatted with the markdown language.  It allows you to put bullet points and Highlights into the text you can find out more about it [here](https://daringfireball.net/projects/markdown/). 
 
 5. Commit the change.
 6. Create a pull request and if you can, merge it.
+
 
 
 Adding an Event
@@ -54,6 +58,32 @@ title: <event name>
 Any info you wish to add about the event.
 ```
 4. Commit the changes
-5. Make and marge the pull request.
+5. Make and marge a pull request.
+
+Editing the main site info
+------------------
+
+The main pages for the site are those at the top level
+
+* index.md
+* storytelling.md
+* tellers.md
+* contact.md
+
+Feel free to make changes to these as you feel appropriate
+
+
+
+Files to ignore
+--------------
+
+The following files are useful but should largly be ignored:
+
+* jeckyll-cache, and \_site -- Stuff built by github
+* \_includes, \_layouts \sass --stuff about layouts
+* \_config.yml , \_home\_config.yml -- Configuration files
+
+
+
 
 
