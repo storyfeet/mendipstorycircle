@@ -5,20 +5,19 @@ order: 0
 #notice: Mendip Storytelling Circle 
 ---
 
-Mendip Storytelling Circle is an open club run by four people: Colin, Martin, Janet and Terence (hereafter referred to as the Quartet). We have been holding monthly meetings September to June on Thursday evenings since 2013.
+Mendip Storytelling Circle bring the ancient art of storytelling alive. The Circle is run by and for people who love the telling of 'stories', be they traditional, contemporary or whatever! Stories, poems or ballads all come alive right in front of you! 
 
-Our aim is to share the joy of orally telling stories from memory in the form of narratives, poems and ballads. Although we would also welcome other forms of communication such as Mime, Puppetry and Sign language.
+Mendip Storytelling Circle meet on the 2nd Wednesday of the month at Ston Easton Village Hall, Green Street, Ston Easton, BA3 4DA
 
-We normally meet on the 2nd Wednesday of the month
+Doors open at 7:30pm, for 7.45pm start. Stories finish at 9.30pm.
 
-Doors open 7:30pm, start time 7.45pm, finish 9.30pm.
+We would love you to come along and enjoy the magic of 'story'.
 
-Currently we meet at Ston Easton Village Hall, Green Street, Ston Easton, BA3 4DA
+Mendip Storytelling Circle is a team of 4 storytellers - Colin, Martin, Janet and Drift - each with their individual style and way of storytelling. Other pieces are performed by the audience and guests. 
 
-One of our Quartet always plays "host" or "master of ceremony's" and another tells the first story, but after that stories can come from anyone.  
+You are welcome to come along and share your story or poem or song - or just sit back and listen, for what is story without listeners? If you do wish to perform, you may book a slot on the night with the evenings host. There are two points to bear in mind - your piece should be no longer than 10 minutes and should not be read. Part of the magic of story is when it is told and woven in front of you, from memory.
 
-If you want to tell a story, speak to the host at the beginning of the meeting.  We recommend that stories last no longer than about 10 minutes unless specially arranged with one of the Quartet before the evening.
+We would love to see (and hear!) from you at our next meeting!
 
-Before stories begin at 8.00 pm and during the intermission tea and coffee and biscuits are made available by our "catering gang" of Carol and another Janet.
+We ask people to make a contribution of £5 (where possible) to help cover with hall hire, heating and the interval tea, coffee and biscuits.
 
-We don't charge for admission to our evening Circle, nor for the refreshments. However we do invite anyone who attends and enjoys the evening to drop a contribution "in the hat" to help with the cost of hall hire, heating and advertising.
