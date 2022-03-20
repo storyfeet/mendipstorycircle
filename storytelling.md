@@ -4,17 +4,14 @@ layout: page
 order: 1
 ---
 
-Storytelling is simple. We all do it all the time without realising. When we recount an odd activity or event that happened yesterday to our friends at the pub.
+You are a born storyteller - you may not know it yet, but you are! We tell each other stories all the time - what happened on the way to work; what happened on your holiday. It is that easy!  Come along and give it a go!
 
-When people come, they often think, they could never tell a story themselves. Some have a go quickly, and others wait a few months, but all are welcome to have a go when ready.
+Mendip Storytelling Circle is a welcoming and supportive place for all storytellers, whether complete 'newbies' or veterans. If you have a story or poem or even a song to share we would love to hear it.
 
-Most of the stories we tell are traditional, but some of us recite poems and sing ballads, and others tell stories that happened to them just the other day or even stories we made up.
+Be warned - storytelling is addictive!
 
-We aim to make our circle a welcoming place to everyone, whether new to storytelling or an old hat. To help with this we have three rules.
+We have just 3 rules that we ask you to bear in mind -
 
-1. No Reading.    
-    All stories must be told from memory or made up on the spot.
-2. 10 Minutes tops.    
-    Be kind to other tellers and listeners.
-3. Listen.
-    Be kind to the tellers who have put in the work preparing the stories. Show your appreciation at the end too, as this helps people to have another go.
+1. No Reading.    Please tell your story from memory or ad lib. 
+2. 10 Minutes limit. Please keep your story to under 10 minutes - a 2 minute story can still be a great one!
+3. Listen. Please respect and be kind to the tellers who have spent time preparing their stories. Show your appreciation at the end too, it helps people to have another go.
