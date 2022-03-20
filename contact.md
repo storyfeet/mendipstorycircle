@@ -12,14 +12,12 @@ Colin
 * Phone 07510 699 046
 * Email: mendipstorycircle@gmail.com
 
-or Terence
-
-* Email: holyhugh@btinternet.com
-
 Follow us on [facebook](https://www.facebook.com/Mendip-Story-Circle-190295491138475/)
 
-Find us at our usual haunt on the first Thursday of the month:
+Or join us on the 2nd Wednesday of the month at -
 
-* Chewton Mendip Village Hall, BA3 4LL
+Ston Village Hall, Green Street, BA3 4DA
+
+
 
 ![Meet us here](/s/pics/drop-map.png)
