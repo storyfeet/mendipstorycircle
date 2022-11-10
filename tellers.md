@@ -4,13 +4,7 @@ layout: page
 order: 5
 ---
 
-First off the Quartet: Terence, Colin, Martin and Janet.
-
-The Poets: David, and George.
-
-Other Regulars: Matt, Sharon, Jem, Lisa, Lesley
-
-And Many more. More info soon.
+First off the Quartet: Colin, Martin, Janet and Drift.
 
 And **YOU**
 
