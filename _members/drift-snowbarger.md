@@ -1,3 +1,9 @@
+---
+title: Drift Snowbarger
+photo: drift_snowbarger.jpeg
+categories : teller
+---
+
 Drift writes and performs his own stories.....and it's nice of him to take the blame. 
 Drift is teller of modern stories relating the trials and tribulations of one short, bald man as he 
 tries to navigate the pitfalls of daily life. Do not expect any moral lessons, except, perhaps
