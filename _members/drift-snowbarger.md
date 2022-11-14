@@ -1,7 +1,7 @@
 ---
 title: Drift Snowbarger
 photo: drift_snowbarger.jpeg
-categories : teller
+categories : member
 ---
 
 Drift writes and performs his own stories.....and it's nice of him to take the blame. 
